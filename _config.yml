@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "snowscan.io"
+title                    : "enzonasegura"
 title_separator          : "-"
-name                     : "Snowscan"
+name                     : "enzonasegura"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "enzonasegura"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
-  location         : "Canada"
-  email            : "info@snowscan.io"
+  bio              : "Pentester, CTF player<br>HackTheBox Player"
+  location         : "Spain"
+  email            : "enzonasegura@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,10 +114,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "slemire"
+  github           : "enzonasegura"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : "enzonasegura"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
