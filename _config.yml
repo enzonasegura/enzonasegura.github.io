@@ -20,7 +20,7 @@ title                    : "enzonasegura"
 title_separator          : "-"
 name                     : "enzonasegura"
 description              : "Posts about security, CTFs and networking"
-url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://enzonasegura.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
@@ -107,7 +107,7 @@ author:
   location         : "Spain"
   email            : "enzonasegura@gmail.com"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://enzonasegura.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
